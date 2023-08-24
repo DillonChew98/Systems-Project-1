@@ -10,5 +10,4 @@ https://github.com/DillonChewSIT/Systems-Project-1/assets/92086507/39381ba3-163e
 ### Navigation 
 Using the ROS navstack, performed SLAM (Simultaneous localization and Mapping) in a controlled environment. Parameters such as path distance bias, goal distance bias and occdist scale were all tuned to allow for navigation through tighter spaces
 
-[![IMAGE ALT TEXT](![limo](https://github.com/DillonChewSIT/Systems-Project-1/assets/92086507/845d9780-45c4-4b97-be38-6af9e35b1901)
-)](https://www.youtube.com/watch?v=-KUg6WYlYGY&ab_channel=Sooth)
+[![IMAGE ALT TEXT](https://i.imgur.com/Ch7Y2vd.png))](https://www.youtube.com/watch?v=-KUg6WYlYGY&ab_channel=Sooth)
